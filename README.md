@@ -1,8 +1,9 @@
 # CS310
-This contains the input file bostonmetro.csv for the graph, and a program to read it called MetroGraph. Also the S&amp;W library algs4.jar in the lib directory. The file extension .csv stands for comma separated values, a standard way to provide data in text.  The provided program supports a MetroGraph object that holds the Graph (S&amp;W type) and information on the platforms. The main has the usual primitive test code. MetroGraph has intentionally been left unencapsulated. Seal it up, using the calls in main as a guide to the public API, and leave this version as MetroGraph1.java.
+This contains the input file bostonmetro.csv for the graph, and a program to read it called MetroGraph. Also the S&amp;W library algs4.jar in the lib directory. The file extension .csv stands for comma separated values, a standard way to provide data in text.  The provided program supports a MetroGraph object that holds the Graph (S&amp;W type) and information on the platforms. The main has the usual primitive test code. MetroGraph has intentionally been left unencapsulated. Seal it up, using the calls in main as a guide to the public API, and leave this version as MetroGraph1.java...?????
 
 
 MetroGraph.java
+
 // For cs310 pa4 Boston metro graph 
 import java.io.File;
 import java.io.FileNotFoundException;
